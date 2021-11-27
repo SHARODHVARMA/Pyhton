@@ -1,0 +1,4 @@
+Hi my name is Sharodh.
+This is my first python Project.
+It is Pocket Money App.
+I hope you like this app.
